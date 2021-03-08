@@ -31,7 +31,7 @@ $ apt install git
 $ apt install requests
 $ git clone https://github.com/Nabil-tech/UiiStaf
 $ cd UiiStaf
-$ python uiistaf.py
+$ python StaffUii.py
 
 ```
 
