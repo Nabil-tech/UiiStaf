@@ -1,5 +1,4 @@
-# UII DOSEN SCANNER
-Tools Scan Akun uii Dosen
+# WELCOME
 
 <p align="center">
   <img src="https://github.com/kelas-kode/kelas-kode/blob/main/pc.gif" height="200" width="450"/>
@@ -18,24 +17,8 @@ Tools Scan Akun uii Dosen
 <a href="https://github.com/Nabil-tech/Bot-Nulis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kelas-kode/Bot_tulis?label=Watchers&color=blue&style=flat-square"></a>
 </p> 
 
-## Fitur
-Scan akun
-## INSTALL
-Progam di buat dengan pemrograman python
-dan membutuhkan modul requests<br>
-Install modul requests dengan perintah [pip](https://pip.pypa.io/en/stable/)
-```bash
-$ apt update && apt upgrade
-$ apt install python
-$ apt install git
-$ apt install requests
-$ git clone https://github.com/Nabil-tech/UiiStaf
-$ cd UiiStaf
-$ python StaffUii.py
 
-```
 
-<br>
 <p align="center">
 ©Copyright NBL CODE
 </p>
